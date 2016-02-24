@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://t1imgserver2.locojoy.com/ios_ipa/aimei_v1.0.999.ipa</string>
+<string>http://t1imgserver2.locojoy.com/ios_ipa/wenai_v1.0.9991.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://t1imgserver2.locojoy.com/music/image/Icon.png</string>
+<string>http://t1imgserver2.locojoy.com/music/image/app.png</string>
 </dict>
 </array><key>metadata</key>
 <dict>
